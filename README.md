@@ -3,6 +3,8 @@ This is the repository for my DSCI 350 class: Computational Machine Learning
 
 Final Project:
 
+See FinalProj.zip
+
 Original dataset - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 finalproj6.ipynb - final model
